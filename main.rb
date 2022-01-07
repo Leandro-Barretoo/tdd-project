@@ -1,4 +1,4 @@
 class Solver
-    def reverse_name
+    def reverse_name(name)
     end
 end
