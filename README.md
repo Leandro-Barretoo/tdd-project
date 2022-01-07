@@ -20,6 +20,11 @@
   - GitHub: [@githubhandle](https://github.com/Hector096)
   - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/hector096/)
 
+:bearded_person: **Leandro Barretoo**
+- GitHub: [@Leandro-Barretoo](https://github.com/Leandro-Barretoo)
+- Twitter: [@Leandro74972596](https://twitter.com/Leandro74972596)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leandro-miguel-gon%C3%A7alves-barreto-7079b11ba/)
+
 
 ## 🤝 Contributing
 
