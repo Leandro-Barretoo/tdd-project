@@ -18,8 +18,7 @@ describe Solver do
         end
 
         it 'should return an error if the given number is negative' do
-            factorial_negative = solve.get_factorial(number_two)
-            expect(factorial_negative).to raise_error('Number is less than 0')
+            expect { solve.get_factorial(number_two) }.to raise_error('Number is less than 0')
         end
 
         it 'should return 1 when the given number is 0' do
