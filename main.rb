@@ -3,7 +3,7 @@ class Solver
         return name.split('').reverse.join('')
     end
 
-    def get_factorial
+    def get_factorial(number)
 
     end
 end
